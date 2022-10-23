@@ -1,1 +1,1 @@
-Simple exercise of stictching image pairs.
+Simple exercise of stitching image pairs.
