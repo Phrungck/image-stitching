@@ -1,4 +1,4 @@
-## Simple exercise of stitching image pairs
+## Simple exercise of stitching image pairs (2020 coding-style)
 
 ## Dependencies
   * numpy
