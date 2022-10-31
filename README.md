@@ -9,3 +9,11 @@ from scratch which uses Harris corner detector as the feature detector.Additiona
   * matplotlib
   * imageio
   * imutils
+
+## Procedure
+1. Draw keypoints in both images
+![alt text](https://github.com/Phrungck/image-stitching/blob/main/keypoints_gray.PNG)
+2. Match keypoints using affine or homography with RANSAC
+![alt text](https://github.com/Phrungck/image-stitching/blob/main/transformation.PNG)
+3. Warp image perspective
+![alt text](https://github.com/Phrungck/image-stitching/blob/main/stitched_output.jpg)
